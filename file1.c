@@ -4,6 +4,6 @@ int main() {
 	printf("enter twp numbers:");
 	scanf("%d", "%d" , &a , &b)
 	sum = a + b
-	printf("sum is :" , sum);
+	printf("sum of numbers is :" , sum);
 	return 0;
 }::::::::
